@@ -1,0 +1,11 @@
+[user]
+	name = Whyounes
+	email = younes.rafie@gmail.com
+[credential]
+	helper = cahce --timeout=1296000
+[push]
+	default = simple
+[core]
+	editor = vim
+[color]
+	ui = always
