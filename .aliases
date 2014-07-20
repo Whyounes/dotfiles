@@ -1,0 +1,20 @@
+# artisan shortcuts
+
+alias art='./artisan'
+alias db='/usr/local/opt/.dropbox-dist/dropbox'
+alias pu='phpunit'
+alias compass='compass2.0'
+alias sublime3='sublime'
+alias l='ls -lah'
+
+# GIT Alias
+alias gitcl="git clone"
+alias gitco="git commit -a -m"
+alias gitadd="git add ."
+alias gitst="git status"
+
+# Vagrant
+alias vup="vagrant up"
+alias vssh="vagrant ssh"
+alias vini="vagrant init"
+alias vaprobash="curl -L http://bit.ly/vaprobash > Vagrantfile"
